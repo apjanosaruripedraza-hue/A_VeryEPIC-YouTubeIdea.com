@@ -1,1 +1,89 @@
-# A_VeryEPIC-YouTubeIdea.com
+<body style= "background-color: #EDCE8A; background-color:#6E381F; background-image:radial gradient(#5C210C 27%, #E8D4A5 23%, #8DE876 50%);">
+
+<section style="background-image: url(Background_PROTOTYPE11.png); background-repeat:no-repeat;">
+<div class="tomxtog">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<h1 align="center" style="font-family: Sofia; color:white;font-size: 60px;"> $izzle & Giggle </h1>
+<p align="center" style="font-family: Courier New; color:white;font-size: 20px;margin-top:-40px;padding-bottom:5px;"> OUR YOUTUBE CHANNEL DREAMS OF</p>
+</div>
+<p style="opacity:1">.<br><br><br><br><br><br>.</p>
+
+<div class="tomxtog" style="margin: 70px 200px 70px 200px; font-family: Times New Roman;"align="center">
+<h1 style="padding-top:30px; padding-left:30px; color: white;"> OUR CHANNEL WILL BE KNOWN FOR</h1>
+<p class="sukuna"> Our Youtube Channel will be known for it's home cooking. We create videos that show how to prepare simple, delicious meals in a way that feels approachable and fun. The goal is to inspire viewers to cook at home, learn new techniques, and enjoy the process of making food. It will have a original appraoch of using GACHA LIFE characters to represent the chefs, recorders, and VA's to make it extra fun and original. <br>Our Videos will fall under entertainment and education, we'll entertain our viewers by having short stories, fun games, and a bit of trend settings. While doing so, we'll also talk about Sitio Bebe in a way that isn't too over bearing or too much to the fact that it's not even a cooking show anymore. It will have it's own section, of course! </p>
+
+</div>
+<hr>
+<div class="tomxtog" style="margin: 70px 400px 70px 0px;">
+<h1 style="padding-top:30px; padding-left:30px; color:  white;font-family: Times New Roman;"> WHO IS OUR TARGET AUDIENCE</h1>
+<p class="sukuna"> Our target audience is mainly ages 12–19, especially beginners like teenagers, college students, or young people cooking while their parents are at work. However, the content is also suitable for older viewers who want to learn basic cooking or start cooking as a hobby.
+
+</p>
+</div>
+<hr>
+<div class="tomxtog" style="margin: 70px 0px 70px 400px;">
+<h1 style="padding-top:30px; padding-left:30px; color:  white;font-family: Times New Roman;"> WHAT WE NEED TO BE A CHANNEL</h1>
+<p class="sukuna"> To start our cooking channel, we need a few essentials to make everything run smoothly. A <strong>budget</strong> is important because we’ll need money for ingredients like rice, meat, vegetables, and fruits. The <strong>right materials</strong> such as cookware, utensils, and storage containers are necessary for preparing, cooking, and keeping food fresh.  <br><br><strong>Kitchen essentials</strong> like a stove, cleaning tools, and safety items helps us cook safely and keep our space clean.  <br><br>Finally, basic <strong>skills</strong> in cooking methods, portioning, and ingredient substitutions are needed so we can prepare meals confidently and adjust when something is missing. These basics make sure our cooking channel is practical, safe, and enjoyable to watch, including a few <button onclick=showTIPS()>tips</button>
+<dialog id="TIPS">
+ <div class="wrapper">
+  <h2 style="font-family: Sofia;"align="center">Cooking Tips!</h2>
+   <form>
+    <p style="font-family: Lucida Console; color: #7A3221;"align="left">-Always be attentive to what you are doing <br>-Always prepare materials and ingredients <br>-Pay full attention to both the cooking book you're using and the food you are making  <br>-Be safe <br>-Use quality ingredients  <br>-Don't fear failure <br>-Enjoy your time cooking</p>
+    <button onclick=closeTIPS() type="button">close</button>
+   </form>
+  </div>
+</dialog> </p>
+
+<script>
+ const dialog = document.getElementById("TIPS")
+ const wrapper = document.querySelector(".wrapper")
+ function showTIPS(){
+ dialog.showModal()
+ }
+ function closeTIPS(){
+ dialog.close()
+ }
+ 
+ dialog.addEventListener("click", (e) => {
+  if(!wrapper.contains(e.target)){
+   dialog.close()
+  }
+ })
+</script>
+
+</div>
+<img src="Side-IMAGE.jpg" alt="baking" style="width:279px;height:356px;" align="right">
+<hr>
+<div class="tomxtog" style="margin: 70px 400px 70px 0px;">
+<h1 style="padding-top:30px; padding-left:30px; color: white;font-family: Times New Roman;"> WHY WAS THIS CHANNEL CREATED</h1>
+<p class="sukuna"> This channel was created to provide teenagers with knowledge about a dish that is easy to prepare and can be made by anyone. This aims to offer entertainment, learning, and encourage independent skills. But most importantly, we created this channel to raise funds for Sitio Bebe because we believe that through this, we can help the community and gather support from different people to make a positive impact. <br><br>Our goal is not only to share easy and delicious recipes but also to inspire kindness, unity, and compassion among everyone who supports our cause. With your kindness and support for our channel, we find hope for a better future for Sitio Bebe. </p>
+</div>
+
+<hr>
+<div class="tomxtog" style="margin: 70px 150px 70px 150px;" align="center">
+<h1 style="padding-top:30px; padding-left:30px; color: white;font-family: tahoma,Helvetica;"> THANKS FOR WATCHING!</h1>
+<h2 style="padding-top:30px; padding-left:30px; color:  white;font-family: Sofia;">Sample Video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/za1nA86jsIk?si=tKCAjVGEfMexZ8Ep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="font-size:15px;font-family: Sofia;color:white;opacity:0.8;" align="center">YouTube Account Link <a href="https://youtube.com/@sizzleandgiggle?si=Q-XXkD8ab5i9Evmu">$izzle&Giggle</a></p>
+<p class="sukuna"> <br>!GROUP 4!<br><br>Ananea Villaluna - Leader<br>Frances Quitalig - Assistant Leader<br>Janosa Pedraza - Assistant Leader<br>Rylan Maramot - Member<br> Krisha Casido - Member<br> Jiraiya Montilla - Member</p>
+</div>
+<p style="font-size:15px;font-family: tahoma, Helvetica;color:white;opacity:0.8;" align="center">This website was made by Janosa Ruri L. Pedraza or APEC Schools 2025-2026<br>This video was sponsored by: Thisisnotawebsitedotcom.com!</p>
+</section>
+<style>
+
+.tomxtog {
+    background-color: rgba(255,255,255,0.5);
+	border-radius: 19px;
+	margin-left: 200px;
+	margin-right: 200px;	
+}
+
+.sukuna {
+    padding: 10px 30px 25px 30px;
+	color:  white;
+	font-size: 21px;
+	font-family: tahoma, Helvetica;
+}
+</style>
+</body>
+</html>
